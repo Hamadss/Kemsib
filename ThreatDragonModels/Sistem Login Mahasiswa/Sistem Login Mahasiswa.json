@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-11-18",
+  "summary": {
+    "title": "Sistem Login Mahasiswa",
+    "owner": "Kelompok 3",
+    "description": "Sistem login keren seru bagus anjayyyy",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "mhs1"
+      },
+      {
+        "name": "mhs2"
+      },
+      {
+        "name": "mhs3"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Dosen SBG",
+    "threatTop": 0
+  }
+}
